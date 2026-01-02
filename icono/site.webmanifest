@@ -2,7 +2,7 @@
   "name": "Salinas Tech - STPOS ",
   "short_name": "STPOS",
   "description": "Sistema de Punto de Venta e Inventarios Bolivia",
-  "start_url": "https://salinastech.com/index.html",
+  "start_url": "https://stpos.salinastech.com/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0a0abe",
@@ -23,4 +23,5 @@
   ]
 
 }
+
 
